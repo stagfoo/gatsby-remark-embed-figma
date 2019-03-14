@@ -15,6 +15,7 @@ Add to your `gatsby-config.js`
       options: {
         plugins: [
           "gatsby-remark-embed-figma",
+        ]
       }
 }
 ```
