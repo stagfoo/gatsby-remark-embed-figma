@@ -41,7 +41,7 @@
     "prettier": "^1.15.3",
     "react": "^16.6.3",
     "remark": "^10.0.1",
-    "standard-version": "^4.4.0"
+    "standard-version": "^8.0.1"
   },
   "dependencies": {
     "async-unist-util-visit": "^1.0.0",
